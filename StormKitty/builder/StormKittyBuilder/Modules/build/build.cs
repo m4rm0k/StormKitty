@@ -1,8 +1,3 @@
-﻿/* 
-    Author : LimerBoy
-    Github : github.com/LimerBoy/StormKitty
-*/
-
 using Mono.Cecil;
 using Mono.Cecil.Cil;
 
